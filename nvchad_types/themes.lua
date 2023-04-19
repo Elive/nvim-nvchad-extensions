@@ -1,7 +1,7 @@
 ---@meta
 
 ---@type ThemeName
-vim.g.nvchad_theme = 'onedark'
+vim.g.nvchad_theme = 'elive_molokai'
 
 ---@alias ThemeName
 ---| '"yoru"'

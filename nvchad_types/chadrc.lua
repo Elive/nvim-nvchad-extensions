@@ -38,7 +38,7 @@
 --- One of the 2 strings must be the value of `theme` field
 --- Example:
 --- ```lua
----     theme_toggle = { "onedark", "one_light", },
+---     theme_toggle = { "elive_molokai", "one_light", },
 --- ```
 ---@field theme_toggle ThemeName[]
 --- Enable transparency or not
